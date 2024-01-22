@@ -1,8 +1,10 @@
 # VideoPlayer. 
 VideoPlayer based on libvlc for python and pyqt5 for gui. 
-The program was written for using on a laptop with a connected projector.
 
 ![screenshot](https://github.com/GennadiyVick/VideoPlayer/blob/master/image.jpg)
+
+The main feature of the program is the indication in the monitor settings for a video window to run in full screen mode. I needed this application to play it on a laptop with a connected projector, the video starts on the projector and the control remains on the laptop window.
+
 During playback, the video window hotkeys work.
 Spacebar - pause/play, F key to switch to full screen mode and back.
 Escape key to stop playback.
