@@ -1,0 +1,17 @@
+{
+"error": {"default":"Error!","ru":"Ошибка!"},
+"settings": {"default":"Settings","ru":"Настройки"},
+"cancel": {"default":"Cancel","ru":"Отмена"},
+"openfile": {"default":"Open a file","ru":"Открыть файл"},
+"playurl": {"default":"Play from URL","ru":"Воспроизвести по URL"},
+"playlist": {"default":"Playlist","ru":"Плейлист"},
+"openvideofile": {"default":"Open video file","ru":"Открыть видео файл"},
+"openvideofiles": {"default":"Open video files","ru":"Открыть видео файлы"},
+"enterlink": {"default":"Enter link:","ru":"Введите ссылку:"},
+"videowindowsets": {"default":"Video window settings","ru":"Настройки видео окна"},
+"playfullscreen": {"default":"Play video in full screen mode.","ru":"Воспроизведение в полноэкранном режиме"},
+"choosemonitor": {"default":"Choose a monitor for full screen mode:","ru":"Выбери монитор для полноэкранного режима:"},
+"notspecmonitor": {"default":"Don't specify monitor","ru":"Не указывать монитор"},
+"audiotrack": {"default":"Audio track", "ru":"Аудио дорожка"},
+"subtitles": {"default":"Subtitles", "ru":"Субтитры"}
+}
